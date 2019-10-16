@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <time.h>
+
 double energy(double* lattice,double mfield, double coupling, int size)
 {
     int i;
